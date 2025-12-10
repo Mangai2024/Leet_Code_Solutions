@@ -1,64 +1,75 @@
 🧠 LeetCode Solutions
 
 Welcome! 👋
-This repository contains my solutions to LeetCode problems.
-I am practicing every day to improve problem solving, logic, and coding skills.
+This repository contains my daily practice solutions for LeetCode problems.
+I am improving my problem-solving skills, logic, and coding efficiency.
 
-📌 Repository Structure
+⭐ What is inside?
 
-The problems are organized by topic:
+Each solution includes:
 
-LeetCode-Solutions/
- ├── Array/
- ├── HashMap/
- ├── SlidingWindow/
- ├── TwoPointers/
- ├── DP/
+Problem name & number
 
-
-Each file contains:
-
-Problem name and number
-
-Python solution
+Python code
 
 Time complexity
 
 Space complexity
 
-Example filename:
+Clear structure inside folders
 
-Array/1_two_sum.py
+📂 Folder Organization
+LeetCode-Solutions/
+ ├── Array/
+ ├── HashMap/
+ ├── SlidingWindow/
+ ├── TwoPointers/
+ ├── DynamicProgramming/
 
-🛠️ How to Run
 
-Clone the repo:
-
-git clone https://github.com/Mangai2024/LeetCode-Solutions.git
-
-
-Run a file:
-
-python Array/1_two_sum.py
+💡 This structure helps beginners find problems easily.
 
 🎯 Goal
 
-🔹 Practice at least 1 problem every day
-🔹 Improve logic and coding style
-🔹 Build strong GitHub activity
+My goal is:
+
+Solve at least 1 problem every day
+
+Be consistent
+
+Improve step-by-step
+
+Build confidence for coding interviews
 
 🔥 Example Problem
 
-Two Sum
+1. Two Sum
 
 nums = [3, 2, 4]
 target = 6
-Output: [1, 2]
+Result → [1, 2]
 
-⭐ Contributions
 
-This repo is mainly for learning and practice.
-Anyone new to coding can:
-✔ read the problems
-✔ see the explanation
-✔ try their own solution
+🕒 Time Complexity: O(n)
+📦 Space Complexity: O(n)
+
+🛠️ How to Run Locally
+git clone https://github.com/Mangai2024/LeetCode-Solutions.git
+cd LeetCode-Solutions
+python Array/1_two_sum.py
+
+🙌 Who is this useful for?
+
+This repository is helpful for:
+
+Beginners
+
+Students
+
+Anyone preparing for interviews
+
+People who want to improve problem-solving
+
+📌 Motivation
+
+Small practice every day is more powerful than big practice once a week.
