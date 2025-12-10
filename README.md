@@ -1,12 +1,12 @@
-🧠 LeetCode Solutions
+**🧠 LeetCode Solutions**
 
 Welcome! 👋
 This repository contains my daily practice solutions for LeetCode problems.
 I am improving my problem-solving skills, logic, and coding efficiency.
 
-⭐ What is inside?
+**⭐ What is inside?**
 
-Each solution includes:
+**Each solution includes:**
 
 Problem name & number
 
@@ -18,7 +18,7 @@ Space complexity
 
 Clear structure inside folders
 
-📂 Folder Organization
+**📂 Folder Organization**
 LeetCode-Solutions/
  ├── Array/
  ├── HashMap/
@@ -28,18 +28,18 @@ LeetCode-Solutions/
 
 
 💡 This structure helps beginners find problems easily.
+****
+**🎯 Goal**
 
-🎯 Goal
+**My goal is:**
 
-My goal is:
-
-Solve at least 1 problem every day
+**Solve at least 1 problem every day
 
 Be consistent
 
 Improve step-by-step
 
-Build confidence for coding interviews
+Build confidence for coding interviews**
 
 🔥 Example Problem
 
@@ -58,7 +58,7 @@ git clone https://github.com/Mangai2024/LeetCode-Solutions.git
 cd LeetCode-Solutions
 python Array/1_two_sum.py
 
-🙌 Who is this useful for?
+**🙌 Who is this useful for?**
 
 This repository is helpful for:
 
@@ -70,6 +70,6 @@ Anyone preparing for interviews
 
 People who want to improve problem-solving
 
-📌 Motivation
+**📌 Motivation**
 
-Small practice every day is more powerful than big practice once a week.
+_**Small practice every day is more powerful than big practice once a week.**___
