@@ -1,0 +1,18 @@
+class Solution:
+    def search(self, nums, target):
+        left = 0                    # start
+        right = len(nums) - 1       # end
+
+        while left <= right:        # still valid range
+            mid = (left + right) // 2
+
+            if nums[mid] == target: # FOUND
+                return mid
+
+            elif nums[mid] < target: # target is on RIGHT
+                left = mid + 1
+
+            else:                    # target is on LEFT
+                right = mid - 1
+
+        return -1                    # not found
